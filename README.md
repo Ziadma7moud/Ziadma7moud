@@ -32,8 +32,8 @@
 | 🏅 | Cloud Architect Training | NTI / ITIDA | Aug 2025 | 120h — Score 94% |
 | ☁️ | AWS Academy — Cloud Foundations | AWS Academy | Aug 2025 | 20h |
 | ☁️ | AWS Academy — Cloud Architecting | AWS Academy | Aug 2025 | 60h |
-| 🐧 | Red Hat System Administration I (RH124) | Mahara-Tech / ITI | Apr 2026 | 9h |
-| 🐧 | Red Hat System Administration II (RH134) | Mahara-Tech / ITI | Jun 2026 | 13h |
+| 🐧 | Red Hat System Administration I (RH124) | Mahara-Tech / ITI | Apr 2026 | 17h |
+| 🐧 | Red Hat System Administration II (RH134) | Mahara-Tech / ITI | Jun 2026 | 22h |
 | 🎯 | RHCSA EX200 | Red Hat | In Progress | — |
 
 ---
