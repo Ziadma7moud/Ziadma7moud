@@ -23,12 +23,12 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Currently Working On
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ziadma7moud&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
-
+- 📖 Studying for **RHCSA EX200** exam
+- 🐧 Practicing Linux administration on **RHEL 9**
+- 🔧 Building hands-on **DevOps projects**
+- 📝 Documenting everything on GitHub
 ---
 
 ## 📫 Connect With Me
